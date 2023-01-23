@@ -1,3 +1,9 @@
+"""
+Given a string of letters a, b, n how many different ways can you make the word "banana" by crossing out various letters and then reading left-to-right?
+(Use - to indicate a crossed-out letter)
+https://www.codewars.com/kata/5917fbed9f4056205a00001e
+"""
+
 from itertools import combinations
 
 
